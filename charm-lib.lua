@@ -223,6 +223,8 @@ function Charm.mapped(sourceAtom, factory)
     return resultTable
 end
 
+return Charm
+
 --------------------------------------------------------------------------------
 -- END OF CHARM LIBRARY
 --------------------------------------------------------------------------------
